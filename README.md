@@ -1,4 +1,4 @@
-# --COMPANY SALES ANALYSIS MINI PROJECT --
+# COMPANY SALES ANALYSIS MINI PROJECT 
 
 A simple command-line based sales analysis project built using Python and NumPy.
 
