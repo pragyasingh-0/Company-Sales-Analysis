@@ -1,21 +1,21 @@
 # Company-Sales-Analysis
 
---Company Sales Analysis--
+# --Company Sales Analysis--
 
 A simple command-line based sales analysis project built using Python and NumPy.
 
 
--- 📌 Overview --
+# -- 📌 Overview --
 
--- This project performs basic company sales data analysis using NumPy operations. It helps in understanding sales performance through calculations and statistical analysis.
+# -- This project performs basic company sales data analysis using NumPy operations. It helps in understanding sales performance through calculations and statistical analysis.
 
 
--- 🛠️ Technologies Used --
+# -- 🛠️ Technologies Used --
 Python
 NumPy
 
 
--- 📊 Features --
+# -- 📊 Features --
 Total sales calculation
 Average sales analysis
 Maximum and minimum sales detection
